@@ -2,7 +2,7 @@
   "name": "SPC Collections",
   "packages": [
     {
-      "url": "https://github.com/moonagic/SwiftExtension.git"
+      "url": "https://github.com/moonagic/SwiftExtension"
     },
     {
       "url": "https://github.com/onevcat/Kingfisher"
