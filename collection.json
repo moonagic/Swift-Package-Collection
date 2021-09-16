@@ -1,9 +1,11 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-09-16T08:05:13Z",
+  "generatedAt": "2021-09-16T08:10:41Z",
   "name": "SPC Collections",
   "packages": [
     {
+      "keywords": [],
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/master/README.md",
       "url": "https://github.com/moonagic/SwiftExtension",
       "versions": [
         {
@@ -67,6 +69,23 @@
       ]
     },
     {
+      "keywords": [
+        "cache",
+        "filters",
+        "image",
+        "image-processor",
+        "ios",
+        "kingfisher",
+        "macos",
+        "swift",
+        "xcode"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/onevcat/Kingfisher/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md",
+      "summary": "A lightweight, pure-Swift library for downloading and caching images from the web.",
       "url": "https://github.com/onevcat/Kingfisher",
       "versions": [
         {
@@ -360,6 +379,20 @@
       ]
     },
     {
+      "keywords": [
+        "alamofire",
+        "hacktoberfest",
+        "networking",
+        "reactiveswift",
+        "rxswift",
+        "swift"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/Moya/Moya/master/License.md"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/Moya/Moya/master/Readme.md",
+      "summary": "Network abstraction layer written in Swift.",
       "url": "https://github.com/Moya/Moya",
       "versions": [
         {
@@ -781,6 +814,12 @@
       ]
     },
     {
+      "keywords": [],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/master/README.md",
       "url": "https://github.com/moonagic/TapticEngineUtils",
       "versions": [
         {
@@ -821,6 +860,12 @@
       ]
     },
     {
+      "keywords": [],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/moonagic/AlertViewController/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/AlertViewController/master/README.md",
       "url": "https://github.com/moonagic/AlertViewController",
       "versions": [
         {
@@ -855,6 +900,27 @@
       ]
     },
     {
+      "keywords": [
+        "aes",
+        "aes-gcm",
+        "cipher",
+        "commoncrypto",
+        "cryptography",
+        "cryptoswift",
+        "digest",
+        "hmac",
+        "hmac-authentication",
+        "md5",
+        "sha1",
+        "sha3",
+        "swift"
+      ],
+      "license": {
+        "name": "NOASSERTION",
+        "url": "https://raw.githubusercontent.com/krzyzanowskim/CryptoSwift/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/krzyzanowskim/CryptoSwift/master/README.md",
+      "summary": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
       "url": "https://github.com/krzyzanowskim/CryptoSwift",
       "versions": [
         {
@@ -1084,6 +1150,24 @@
       ]
     },
     {
+      "keywords": [
+        "auto",
+        "autolayout",
+        "cocoapods",
+        "constraints",
+        "dsl",
+        "layout",
+        "snapkit",
+        "swift",
+        "ui",
+        "xcode"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/SnapKit/SnapKit/develop/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/SnapKit/SnapKit/develop/README.md",
+      "summary": "A Swift Autolayout DSL for iOS & OS X",
       "url": "https://github.com/SnapKit/SnapKit",
       "versions": [
         {
@@ -1161,6 +1245,17 @@
       ]
     },
     {
+      "keywords": [
+        "keychain",
+        "security",
+        "touch-id"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/kishikawakatsumi/KeychainAccess/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/kishikawakatsumi/KeychainAccess/master/README.md",
+      "summary": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
       "url": "https://github.com/kishikawakatsumi/KeychainAccess",
       "versions": [
         {
