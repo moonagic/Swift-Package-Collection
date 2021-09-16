@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-09-16T08:10:41Z",
+  "generatedAt": "2021-09-16T08:14:38Z",
   "name": "SPC Collections",
   "packages": [
     {
@@ -1568,6 +1568,137 @@
             }
           },
           "version": "v3.2.0"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "capture",
+        "crop-image",
+        "drawing",
+        "editor",
+        "gif",
+        "ios",
+        "multiple-photos",
+        "swift5",
+        "uiimagepickercontroller",
+        "video"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/next/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/next/README.md",
+      "summary": "A toolbox for pick/edit/capture photo or video. Written in Swift. ",
+      "url": "https://github.com/AnyImageProject/AnyImageKit",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "10.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.13.3"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "10.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.13.2"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "10.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.13.1"
         }
       ]
     }
