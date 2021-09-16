@@ -1,0 +1,30 @@
+{
+  "name": "Moon's Collections",
+  "packages": [
+    {
+      "url": "https://github.com/moonagic/SwiftExtension.git"
+    },
+    {
+      "url": "https://github.com/onevcat/Kingfisher"
+    },
+    {
+      "url": "https://github.com/Moya/Moya"
+    },
+    {
+      "url": "https://github.com/moonagic/TapticEngineUtils"
+    },
+    {
+      "url": "https://github.com/moonagic/AlertViewController"
+    },
+    {
+      "url": "https://github.com/krzyzanowskim/CryptoSwift"
+    },
+    {
+      "url": "https://github.com/SnapKit/SnapKit",
+      "versions": [
+        "5.0.0",
+        "5.0.1"
+      ]
+    }
+  ]
+}
