@@ -40,6 +40,9 @@
     },
     {
       "url": "https://github.com/AnyImageProject/AnyImageKit"
+    },
+    {
+      "url": "https://github.com/sroebert/mqtt-nio/"
     }
   ]
 }

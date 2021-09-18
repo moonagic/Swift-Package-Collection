@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-09-16T08:14:38Z",
+  "generatedAt": "2021-09-18T01:44:08Z",
   "name": "SPC Collections",
   "packages": [
     {
@@ -1699,6 +1699,185 @@
           },
           "summary": "",
           "version": "0.13.1"
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/sroebert/mqtt-nio/",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.4.0",
+          "manifests": {
+            "5.4.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.4.0"
+            }
+          },
+          "version": "2.1.1"
+        },
+        {
+          "defaultToolsVersion": "5.4.0",
+          "manifests": {
+            "5.4.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.4.0"
+            }
+          },
+          "version": "2.1.0"
+        },
+        {
+          "defaultToolsVersion": "5.4.0",
+          "manifests": {
+            "5.4.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.4.0"
+            }
+          },
+          "version": "2.0.2"
+        },
+        {
+          "defaultToolsVersion": "5.4.0",
+          "manifests": {
+            "5.4.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.4.0"
+            }
+          },
+          "version": "1.0.3"
+        },
+        {
+          "defaultToolsVersion": "5.4.0",
+          "manifests": {
+            "5.4.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.4.0"
+            }
+          },
+          "version": "1.0.2"
+        },
+        {
+          "defaultToolsVersion": "5.1.0",
+          "manifests": {
+            "5.1.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.1.0"
+            }
+          },
+          "version": "1.0.1"
         }
       ]
     }
