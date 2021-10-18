@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-10-13T01:09:52Z",
+  "generatedAt": "2021-10-18T03:08:39Z",
   "name": "SPC Collections",
   "packages": [
     {
@@ -134,6 +134,54 @@
             }
           },
           "summary": "",
+          "version": "7.1.1"
+        },
+        {
+          "defaultToolsVersion": "5.1.0",
+          "manifests": {
+            "5.1.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "12.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.14"
+                },
+                {
+                  "name": "tvos",
+                  "version": "12.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "5.0"
+                }
+              ],
+              "packageName": "Kingfisher",
+              "products": [
+                {
+                  "name": "Kingfisher",
+                  "targets": [
+                    "Kingfisher"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Kingfisher",
+                  "name": "Kingfisher"
+                }
+              ],
+              "toolsVersion": "5.1.0"
+            }
+          },
+          "summary": "",
           "version": "7.1.0"
         },
         {
@@ -183,54 +231,6 @@
           },
           "summary": "",
           "version": "7.0.0"
-        },
-        {
-          "defaultToolsVersion": "5.1.0",
-          "manifests": {
-            "5.1.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "12.0"
-                },
-                {
-                  "name": "macos",
-                  "version": "10.14"
-                },
-                {
-                  "name": "tvos",
-                  "version": "12.0"
-                },
-                {
-                  "name": "watchos",
-                  "version": "5.0"
-                }
-              ],
-              "packageName": "Kingfisher",
-              "products": [
-                {
-                  "name": "Kingfisher",
-                  "targets": [
-                    "Kingfisher"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "Kingfisher",
-                  "name": "Kingfisher"
-                }
-              ],
-              "toolsVersion": "5.1.0"
-            }
-          },
-          "summary": "",
-          "version": "7.0.0-beta.4"
         },
         {
           "defaultToolsVersion": "5.1.0",
@@ -1630,6 +1630,42 @@
             }
           },
           "summary": "",
+          "version": "0.13.5"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "12.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
           "version": "0.13.4"
         },
         {
@@ -1667,42 +1703,6 @@
           },
           "summary": "",
           "version": "0.13.3"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "10.0"
-                }
-              ],
-              "packageName": "AnyImageKit",
-              "products": [
-                {
-                  "name": "AnyImageKit",
-                  "targets": [
-                    "AnyImageKit"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "AnyImageKit",
-                  "name": "AnyImageKit"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "summary": "",
-          "version": "0.13.2"
         }
       ]
     },
