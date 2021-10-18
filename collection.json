@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-10-18T03:08:39Z",
+  "generatedAt": "2021-10-18T03:16:18Z",
   "name": "SPC Collections",
   "packages": [
     {
@@ -1707,7 +1707,14 @@
       ]
     },
     {
-      "url": "https://github.com/sroebert/mqtt-nio/",
+      "keywords": [],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/sroebert/mqtt-nio/main/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/sroebert/mqtt-nio/main/README.md",
+      "summary": "Non-blocking, event-driven Swift client for MQTT (3.1.1 and 5.0).",
+      "url": "https://github.com/sroebert/mqtt-nio",
       "versions": [
         {
           "defaultToolsVersion": "5.4.0",
