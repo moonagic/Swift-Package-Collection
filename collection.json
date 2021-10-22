@@ -1,11 +1,11 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-10-20T07:45:48Z",
+  "generatedAt": "2021-10-22T01:16:18Z",
   "name": "SPC Collections",
   "packages": [
     {
       "keywords": [],
-      "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/master/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/README.md",
       "url": "https://github.com/moonagic/SwiftExtension",
       "versions": [
         {
@@ -846,9 +846,9 @@
       "keywords": [],
       "license": {
         "name": "MIT",
-        "url": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/master/LICENSE"
+        "url": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/main/LICENSE"
       },
-      "readmeURL": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/master/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/main/README.md",
       "url": "https://github.com/moonagic/TapticEngineUtils",
       "versions": [
         {
@@ -892,9 +892,9 @@
       "keywords": [],
       "license": {
         "name": "MIT",
-        "url": "https://raw.githubusercontent.com/moonagic/AlertViewController/master/LICENSE"
+        "url": "https://raw.githubusercontent.com/moonagic/AlertViewController/main/LICENSE"
       },
-      "readmeURL": "https://raw.githubusercontent.com/moonagic/AlertViewController/master/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/AlertViewController/main/README.md",
       "url": "https://github.com/moonagic/AlertViewController",
       "versions": [
         {
