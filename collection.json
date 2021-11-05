@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-11-03T05:56:36Z",
+  "generatedAt": "2021-11-05T06:30:20Z",
   "name": "SPC Collections",
   "packages": [
     {
@@ -1619,9 +1619,9 @@
       ],
       "license": {
         "name": "MIT",
-        "url": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/next/LICENSE"
+        "url": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/master/LICENSE"
       },
-      "readmeURL": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/next/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/master/README.md",
       "summary": "A toolbox for pick/edit/capture photo or video. Written in Swift. ",
       "url": "https://github.com/AnyImageProject/AnyImageKit",
       "versions": [
