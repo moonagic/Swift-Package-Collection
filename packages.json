@@ -1,48 +1,55 @@
 {
-  "name": "SPC Collections",
-  "packages": [
+    "name": "Hengmin`s Favourite Packages",
+    "packages":
+    [
+        {
+            "url": "https://github.com/moonagic/SwiftExtension"
+        },
+        {
+            "url": "https://github.com/onevcat/Kingfisher"
+        },
+        {
+            "url": "https://github.com/Moya/Moya"
+        },
+        {
+            "url": "https://github.com/moonagic/TapticEngineUtils"
+        },
+        {
+            "url": "https://github.com/moonagic/AlertViewController"
+        },
+        {
+            "url": "https://github.com/krzyzanowskim/CryptoSwift"
+        },
+        {
+            "url": "https://github.com/SnapKit/SnapKit",
+            "versions":
+            [
+                "5.0.0",
+                "5.0.1"
+            ]
+        },
+        {
+            "url": "https://github.com/kishikawakatsumi/KeychainAccess",
+            "versions":
+            [
+                "v4.2.2",
+                "v4.2.1",
+                "v4.2.0",
+                "v4.1.0",
+                "v4.0.0",
+                "v3.2.1",
+                "v3.2.0"
+            ]
+        },
+        {
+            "url": "https://github.com/AnyImageProject/AnyImageKit"
+        },
+        {
+            "url": "https://github.com/sroebert/mqtt-nio"
+        }
+    ],
+    "author":
     {
-      "url": "https://github.com/moonagic/SwiftExtension"
-    },
-    {
-      "url": "https://github.com/onevcat/Kingfisher"
-    },
-    {
-      "url": "https://github.com/Moya/Moya"
-    },
-    {
-      "url": "https://github.com/moonagic/TapticEngineUtils"
-    },
-    {
-      "url": "https://github.com/moonagic/AlertViewController"
-    },
-    {
-      "url": "https://github.com/krzyzanowskim/CryptoSwift"
-    },
-    {
-      "url": "https://github.com/SnapKit/SnapKit",
-      "versions": [
-        "5.0.0",
-        "5.0.1"
-      ]
-    },
-    {
-      "url": "https://github.com/kishikawakatsumi/KeychainAccess",
-      "versions": [
-        "v4.2.2",
-        "v4.2.1",
-        "v4.2.0",
-        "v4.1.0",
-        "v4.0.0",
-        "v3.2.1",
-        "v3.2.0"
-      ]
-    },
-    {
-      "url": "https://github.com/AnyImageProject/AnyImageKit"
-    },
-    {
-      "url": "https://github.com/sroebert/mqtt-nio"
+        "name": "Hengmin Wu"
     }
-  ]
 }

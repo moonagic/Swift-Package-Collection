@@ -1,7 +1,10 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-11-09T01:48:47Z",
-  "name": "SPC Collections",
+  "generatedAt": "2021-11-09T03:24:07Z",
+  "generatedBy": {
+    "name": "Hengmin Wu"
+  },
+  "name": "Hengmin`s Favourite Packages",
   "packages": [
     {
       "keywords": [],
