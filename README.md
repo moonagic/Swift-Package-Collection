@@ -2,5 +2,5 @@
 
 Add Package Collection
 ```
-https://raw.githubusercontent.com/moonagic/Swift-Package-Collection/master/collection.json
+https://raw.githubusercontent.com/moonagic/Swift-Package-Collection/main/collection.json
 ```
