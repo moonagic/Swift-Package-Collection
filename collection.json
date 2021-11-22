@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-11-18T02:12:27Z",
+  "generatedAt": "2021-11-22T08:51:45Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1662,6 +1662,42 @@
             }
           },
           "summary": "",
+          "version": "0.14.0"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "12.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
           "version": "0.13.5"
         },
         {
@@ -1699,42 +1735,6 @@
           },
           "summary": "",
           "version": "0.13.4"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "10.0"
-                }
-              ],
-              "packageName": "AnyImageKit",
-              "products": [
-                {
-                  "name": "AnyImageKit",
-                  "targets": [
-                    "AnyImageKit"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "AnyImageKit",
-                  "name": "AnyImageKit"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "summary": "",
-          "version": "0.13.3"
         }
       ]
     },
@@ -1921,6 +1921,207 @@
             }
           },
           "version": "1.0.1"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "dom",
+        "extract",
+        "html",
+        "html-document",
+        "parse",
+        "selector",
+        "swift",
+        "swiftsoup"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/scinfu/SwiftSoup/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/scinfu/SwiftSoup/master/README.md",
+      "summary": "SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",
+      "url": "https://github.com/scinfu/SwiftSoup",
+      "versions": [
+        {
+          "defaultToolsVersion": "4.2.0",
+          "manifests": {
+            "4.2.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.2.0"
+            }
+          },
+          "summary": "2.3.3",
+          "version": "2.3.3"
+        },
+        {
+          "defaultToolsVersion": "4.2.0",
+          "manifests": {
+            "4.2.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.2.0"
+            }
+          },
+          "summary": "no message",
+          "version": "2.3.2"
+        },
+        {
+          "defaultToolsVersion": "4.2.0",
+          "manifests": {
+            "4.2.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.2.0"
+            }
+          },
+          "summary": "2.3.1",
+          "version": "2.3.1"
+        },
+        {
+          "defaultToolsVersion": "4.1.0",
+          "manifests": {
+            "4.1.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.1.0"
+            }
+          },
+          "summary": "",
+          "version": "1.7.5"
+        },
+        {
+          "defaultToolsVersion": "4.1.0",
+          "manifests": {
+            "4.1.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.1.0"
+            }
+          },
+          "summary": "",
+          "version": "1.7.4"
+        },
+        {
+          "defaultToolsVersion": "4.0.0",
+          "manifests": {
+            "4.0.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.0.0"
+            }
+          },
+          "summary": "",
+          "version": "1.7.3"
         }
       ]
     }

@@ -46,6 +46,9 @@
         },
         {
             "url": "https://github.com/sroebert/mqtt-nio"
+        },
+        {
+            "url": "https://github.com/scinfu/SwiftSoup"
         }
     ],
     "author":
