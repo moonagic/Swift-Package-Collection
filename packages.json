@@ -49,6 +49,15 @@
         },
         {
             "url": "https://github.com/scinfu/SwiftSoup"
+        },
+        {
+            "url": "https://github.com/devxoul/Then",
+            "versions":
+            [
+                "2.7.0",
+                "2.6.0",
+                "2.5.0"
+            ]
         }
     ],
     "author":

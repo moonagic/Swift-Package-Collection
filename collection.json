@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-11-23T02:30:46Z",
+  "generatedAt": "2021-11-23T06:00:35Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -2122,6 +2122,162 @@
           },
           "summary": "",
           "version": "1.7.3"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "swift",
+        "syntactic-sugar"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/devxoul/Then/master/LICENSE"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/devxoul/Then/master/README.md",
+      "summary": "✨ Super sweet syntactic sugar for Swift initializers",
+      "url": "https://github.com/devxoul/Then",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.0.0",
+          "manifests": {
+            "5.0.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "macos",
+                  "version": "10.10"
+                },
+                {
+                  "name": "ios",
+                  "version": "8.0"
+                },
+                {
+                  "name": "tvos",
+                  "version": "9.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "2.0"
+                }
+              ],
+              "packageName": "Then",
+              "products": [
+                {
+                  "name": "Then",
+                  "targets": [
+                    "Then"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Then",
+                  "name": "Then"
+                }
+              ],
+              "toolsVersion": "5.0.0"
+            }
+          },
+          "version": "2.7.0"
+        },
+        {
+          "defaultToolsVersion": "5.0.0",
+          "manifests": {
+            "5.0.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "macos",
+                  "version": "10.10"
+                },
+                {
+                  "name": "ios",
+                  "version": "8.0"
+                },
+                {
+                  "name": "tvos",
+                  "version": "9.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "2.0"
+                }
+              ],
+              "packageName": "Then",
+              "products": [
+                {
+                  "name": "Then",
+                  "targets": [
+                    "Then"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Then",
+                  "name": "Then"
+                }
+              ],
+              "toolsVersion": "5.0.0"
+            }
+          },
+          "version": "2.6.0"
+        },
+        {
+          "defaultToolsVersion": "5.0.0",
+          "manifests": {
+            "5.0.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "macos",
+                  "version": "10.10"
+                },
+                {
+                  "name": "ios",
+                  "version": "8.0"
+                },
+                {
+                  "name": "tvos",
+                  "version": "9.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "2.0"
+                }
+              ],
+              "packageName": "Then",
+              "products": [
+                {
+                  "name": "Then",
+                  "targets": [
+                    "Then"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Then",
+                  "name": "Then"
+                }
+              ],
+              "toolsVersion": "5.0.0"
+            }
+          },
+          "version": "2.5.0"
         }
       ]
     }
