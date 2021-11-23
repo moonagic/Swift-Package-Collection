@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-11-23T06:00:35Z",
+  "generatedAt": "2021-11-23T06:16:21Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -2126,17 +2126,14 @@
       ]
     },
     {
-      "keywords": [
-        "swift",
-        "syntactic-sugar"
-      ],
+      "keywords": [],
       "license": {
         "name": "MIT",
-        "url": "https://raw.githubusercontent.com/devxoul/Then/master/LICENSE"
+        "url": "https://raw.githubusercontent.com/moonagic/Then/master/LICENSE"
       },
-      "readmeURL": "https://raw.githubusercontent.com/devxoul/Then/master/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/moonagic/Then/master/README.md",
       "summary": "✨ Super sweet syntactic sugar for Swift initializers",
-      "url": "https://github.com/devxoul/Then",
+      "url": "https://github.com/moonagic/Then",
       "versions": [
         {
           "defaultToolsVersion": "5.0.0",
