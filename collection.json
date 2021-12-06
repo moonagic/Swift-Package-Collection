@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-02T05:55:00Z",
+  "generatedAt": "2021-12-06T03:49:29Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1775,6 +1775,35 @@
               "toolsVersion": "5.5.0"
             }
           },
+          "version": "2.2.3"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
           "version": "2.2.2"
         },
         {
@@ -1805,35 +1834,6 @@
             }
           },
           "version": "2.2.1"
-        },
-        {
-          "defaultToolsVersion": "5.5.0",
-          "manifests": {
-            "5.5.0": {
-              "packageName": "mqtt-nio",
-              "products": [
-                {
-                  "name": "MQTTNIO",
-                  "targets": [
-                    "MQTTNIO"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "MQTTNIO",
-                  "name": "MQTTNIO"
-                }
-              ],
-              "toolsVersion": "5.5.0"
-            }
-          },
-          "version": "2.2.0"
         },
         {
           "defaultToolsVersion": "5.4.0",
