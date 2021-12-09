@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-07T02:46:38Z",
+  "generatedAt": "2021-12-09T03:19:57Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -166,6 +166,54 @@
             }
           },
           "summary": "",
+          "version": "7.1.2"
+        },
+        {
+          "defaultToolsVersion": "5.1.0",
+          "manifests": {
+            "5.1.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "12.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.14"
+                },
+                {
+                  "name": "tvos",
+                  "version": "12.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "5.0"
+                }
+              ],
+              "packageName": "Kingfisher",
+              "products": [
+                {
+                  "name": "Kingfisher",
+                  "targets": [
+                    "Kingfisher"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "Kingfisher",
+                  "name": "Kingfisher"
+                }
+              ],
+              "toolsVersion": "5.1.0"
+            }
+          },
+          "summary": "",
           "version": "7.1.1"
         },
         {
@@ -215,54 +263,6 @@
           },
           "summary": "",
           "version": "7.1.0"
-        },
-        {
-          "defaultToolsVersion": "5.1.0",
-          "manifests": {
-            "5.1.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "12.0"
-                },
-                {
-                  "name": "macos",
-                  "version": "10.14"
-                },
-                {
-                  "name": "tvos",
-                  "version": "12.0"
-                },
-                {
-                  "name": "watchos",
-                  "version": "5.0"
-                }
-              ],
-              "packageName": "Kingfisher",
-              "products": [
-                {
-                  "name": "Kingfisher",
-                  "targets": [
-                    "Kingfisher"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "Kingfisher",
-                  "name": "Kingfisher"
-                }
-              ],
-              "toolsVersion": "5.1.0"
-            }
-          },
-          "summary": "",
-          "version": "7.0.0"
         },
         {
           "defaultToolsVersion": "5.1.0",
