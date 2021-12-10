@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-09T03:19:57Z",
+  "generatedAt": "2021-12-10T02:35:17Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -11,6 +11,35 @@
       "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/README.md",
       "url": "https://github.com/moonagic/SwiftExtension",
       "versions": [
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "packageName": "SwiftExtension",
+              "products": [
+                {
+                  "name": "SwiftExtension",
+                  "targets": [
+                    "SwiftExtension"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftExtension",
+                  "name": "SwiftExtension"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "version": "0.0.4"
+        },
         {
           "defaultToolsVersion": "5.3.0",
           "manifests": {
@@ -68,35 +97,6 @@
             }
           },
           "version": "0.0.2"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "packageName": "SwiftExtension",
-              "products": [
-                {
-                  "name": "SwiftExtension",
-                  "targets": [
-                    "SwiftExtension"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "SwiftExtension",
-                  "name": "SwiftExtension"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "version": "0.0.1"
         }
       ]
     },
@@ -1775,6 +1775,35 @@
               "toolsVersion": "5.5.0"
             }
           },
+          "version": "2.3.0"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
           "version": "2.2.3"
         },
         {
@@ -1805,35 +1834,6 @@
             }
           },
           "version": "2.2.2"
-        },
-        {
-          "defaultToolsVersion": "5.5.0",
-          "manifests": {
-            "5.5.0": {
-              "packageName": "mqtt-nio",
-              "products": [
-                {
-                  "name": "MQTTNIO",
-                  "targets": [
-                    "MQTTNIO"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "MQTTNIO",
-                  "name": "MQTTNIO"
-                }
-              ],
-              "toolsVersion": "5.5.0"
-            }
-          },
-          "version": "2.2.1"
         },
         {
           "defaultToolsVersion": "5.4.0",
@@ -1970,6 +1970,36 @@
               "toolsVersion": "4.2.0"
             }
           },
+          "summary": "2.3.4",
+          "version": "2.3.4"
+        },
+        {
+          "defaultToolsVersion": "4.2.0",
+          "manifests": {
+            "4.2.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "4.2.0"
+            }
+          },
           "summary": "2.3.3",
           "version": "2.3.3"
         },
@@ -2002,36 +2032,6 @@
           },
           "summary": "no message",
           "version": "2.3.2"
-        },
-        {
-          "defaultToolsVersion": "4.2.0",
-          "manifests": {
-            "4.2.0": {
-              "packageName": "SwiftSoup",
-              "products": [
-                {
-                  "name": "SwiftSoup",
-                  "targets": [
-                    "SwiftSoup"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "SwiftSoup",
-                  "name": "SwiftSoup"
-                }
-              ],
-              "toolsVersion": "4.2.0"
-            }
-          },
-          "summary": "2.3.1",
-          "version": "2.3.1"
         },
         {
           "defaultToolsVersion": "4.1.0",
