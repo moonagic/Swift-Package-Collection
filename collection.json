@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-20T07:44:04Z",
+  "generatedAt": "2021-12-23T08:54:51Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -8,6 +8,10 @@
   "packages": [
     {
       "keywords": [],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/LICENSE"
+      },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/README.md",
       "url": "https://github.com/moonagic/SwiftExtension",
       "versions": [
@@ -852,6 +856,7 @@
         "url": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/main/LICENSE"
       },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/main/README.md",
+      "summary": "An easy to use taptic Engine tool",
       "url": "https://github.com/moonagic/TapticEngineUtils",
       "versions": [
         {
@@ -1775,6 +1780,35 @@
               "toolsVersion": "5.5.0"
             }
           },
+          "version": "2.3.1"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
           "version": "2.3.0"
         },
         {
@@ -1805,35 +1839,6 @@
             }
           },
           "version": "2.2.3"
-        },
-        {
-          "defaultToolsVersion": "5.5.0",
-          "manifests": {
-            "5.5.0": {
-              "packageName": "mqtt-nio",
-              "products": [
-                {
-                  "name": "MQTTNIO",
-                  "targets": [
-                    "MQTTNIO"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "MQTTNIO",
-                  "name": "MQTTNIO"
-                }
-              ],
-              "toolsVersion": "5.5.0"
-            }
-          },
-          "version": "2.2.2"
         },
         {
           "defaultToolsVersion": "5.4.0",
