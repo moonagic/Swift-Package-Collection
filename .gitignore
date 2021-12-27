@@ -4,4 +4,6 @@ package-collection-generate
 package-collection-sign
 package-collection-validate
 .DS_Store
-
+*.pem
+*.cer
+*.p12
