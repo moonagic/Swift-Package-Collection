@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-27T04:44:18Z",
+  "generatedAt": "2021-12-29T07:11:24Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1628,12 +1628,48 @@
       ],
       "license": {
         "name": "MIT",
-        "url": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/master/LICENSE"
+        "url": "https://raw.githubusercontent.com/AnyImageKit/AnyImageKit/master/LICENSE"
       },
-      "readmeURL": "https://raw.githubusercontent.com/AnyImageProject/AnyImageKit/master/README.md",
+      "readmeURL": "https://raw.githubusercontent.com/AnyImageKit/AnyImageKit/master/README.md",
       "summary": "A toolbox for pick/edit/capture photo or video. Written in Swift. ",
       "url": "https://github.com/AnyImageProject/AnyImageKit",
       "versions": [
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "12.0"
+                }
+              ],
+              "packageName": "AnyImageKit",
+              "products": [
+                {
+                  "name": "AnyImageKit",
+                  "targets": [
+                    "AnyImageKit"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "AnyImageKit",
+                  "name": "AnyImageKit"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.14.3"
+        },
         {
           "defaultToolsVersion": "5.3.0",
           "manifests": {
@@ -1705,42 +1741,6 @@
           },
           "summary": "",
           "version": "0.14.1"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "12.0"
-                }
-              ],
-              "packageName": "AnyImageKit",
-              "products": [
-                {
-                  "name": "AnyImageKit",
-                  "targets": [
-                    "AnyImageKit"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "AnyImageKit",
-                  "name": "AnyImageKit"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "summary": "",
-          "version": "0.14.0"
         }
       ]
     },
@@ -2281,6 +2281,177 @@
             }
           },
           "version": "2.5.0"
+        }
+      ]
+    },
+    {
+      "keywords": [
+        "attributedstring",
+        "color",
+        "compatibility",
+        "control-flow",
+        "framework",
+        "library",
+        "macos",
+        "progressbar",
+        "scroll",
+        "swift",
+        "swift-package-manager",
+        "swiftui",
+        "textview",
+        "toolbar"
+      ],
+      "license": {
+        "name": "MIT",
+        "url": "https://raw.githubusercontent.com/SwiftUIX/SwiftUIX/master/LICENSE.md"
+      },
+      "readmeURL": "https://raw.githubusercontent.com/SwiftUIX/SwiftUIX/master/README.md",
+      "summary": "Extensions and additions to the standard SwiftUI library.",
+      "url": "https://github.com/SwiftUIX/SwiftUIX",
+      "versions": [
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "13.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.15"
+                },
+                {
+                  "name": "tvos",
+                  "version": "13.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "6.0"
+                }
+              ],
+              "packageName": "SwiftUIX",
+              "products": [
+                {
+                  "name": "SwiftUIX",
+                  "targets": [
+                    "SwiftUIX"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftUIX",
+                  "name": "SwiftUIX"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
+          "summary": "",
+          "version": "0.1.1"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "13.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.15"
+                },
+                {
+                  "name": "tvos",
+                  "version": "13.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "6.0"
+                }
+              ],
+              "packageName": "SwiftUIX",
+              "products": [
+                {
+                  "name": "SwiftUIX",
+                  "targets": [
+                    "SwiftUIX"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftUIX",
+                  "name": "SwiftUIX"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.1.0"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "13.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.15"
+                },
+                {
+                  "name": "tvos",
+                  "version": "13.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "6.0"
+                }
+              ],
+              "packageName": "SwiftUIX",
+              "products": [
+                {
+                  "name": "SwiftUIX",
+                  "targets": [
+                    "SwiftUIX"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftUIX",
+                  "name": "SwiftUIX"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
+          "summary": "",
+          "version": "0.0.9"
         }
       ]
     }

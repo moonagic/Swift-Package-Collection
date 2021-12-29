@@ -59,6 +59,9 @@
                 "2.6.0",
                 "2.5.0"
             ]
+        },
+        {
+            "url": "https://github.com/SwiftUIX/SwiftUIX"
         }
     ],
     "author":
