@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2021-12-31T06:07:18Z",
+  "generatedAt": "2022-01-05T09:49:58Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1781,6 +1781,35 @@
               "toolsVersion": "5.5.0"
             }
           },
+          "version": "2.4.0"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
           "version": "2.3.1"
         },
         {
@@ -1811,35 +1840,6 @@
             }
           },
           "version": "2.3.0"
-        },
-        {
-          "defaultToolsVersion": "5.5.0",
-          "manifests": {
-            "5.5.0": {
-              "packageName": "mqtt-nio",
-              "products": [
-                {
-                  "name": "MQTTNIO",
-                  "targets": [
-                    "MQTTNIO"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "MQTTNIO",
-                  "name": "MQTTNIO"
-                }
-              ],
-              "toolsVersion": "5.5.0"
-            }
-          },
-          "version": "2.2.3"
         },
         {
           "defaultToolsVersion": "5.4.0",
@@ -1950,6 +1950,66 @@
       "url": "https://github.com/scinfu/SwiftSoup",
       "versions": [
         {
+          "defaultToolsVersion": "5.0.0",
+          "manifests": {
+            "5.0.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "5.0.0"
+            }
+          },
+          "summary": "2.3.6",
+          "version": "2.3.6"
+        },
+        {
+          "defaultToolsVersion": "5.0.0",
+          "manifests": {
+            "5.0.0": {
+              "packageName": "SwiftSoup",
+              "products": [
+                {
+                  "name": "SwiftSoup",
+                  "targets": [
+                    "SwiftSoup"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftSoup",
+                  "name": "SwiftSoup"
+                }
+              ],
+              "toolsVersion": "5.0.0"
+            }
+          },
+          "summary": "no message",
+          "version": "2.3.5"
+        },
+        {
           "defaultToolsVersion": "4.2.0",
           "manifests": {
             "4.2.0": {
@@ -1978,66 +2038,6 @@
           },
           "summary": "2.3.4",
           "version": "2.3.4"
-        },
-        {
-          "defaultToolsVersion": "4.2.0",
-          "manifests": {
-            "4.2.0": {
-              "packageName": "SwiftSoup",
-              "products": [
-                {
-                  "name": "SwiftSoup",
-                  "targets": [
-                    "SwiftSoup"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "SwiftSoup",
-                  "name": "SwiftSoup"
-                }
-              ],
-              "toolsVersion": "4.2.0"
-            }
-          },
-          "summary": "2.3.3",
-          "version": "2.3.3"
-        },
-        {
-          "defaultToolsVersion": "4.2.0",
-          "manifests": {
-            "4.2.0": {
-              "packageName": "SwiftSoup",
-              "products": [
-                {
-                  "name": "SwiftSoup",
-                  "targets": [
-                    "SwiftSoup"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "SwiftSoup",
-                  "name": "SwiftSoup"
-                }
-              ],
-              "toolsVersion": "4.2.0"
-            }
-          },
-          "summary": "no message",
-          "version": "2.3.2"
         },
         {
           "defaultToolsVersion": "4.1.0",
