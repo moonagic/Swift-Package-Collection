@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2022-01-12T05:24:40Z",
+  "generatedAt": "2022-01-27T02:34:57Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1976,8 +1976,8 @@
               "toolsVersion": "5.0.0"
             }
           },
-          "summary": "2.3.6",
-          "version": "2.3.6"
+          "summary": "2.3.8",
+          "version": "2.3.8"
         },
         {
           "defaultToolsVersion": "5.0.0",
@@ -2006,13 +2006,13 @@
               "toolsVersion": "5.0.0"
             }
           },
-          "summary": "no message",
-          "version": "2.3.5"
+          "summary": "2.3.7",
+          "version": "2.3.7"
         },
         {
-          "defaultToolsVersion": "4.2.0",
+          "defaultToolsVersion": "5.0.0",
           "manifests": {
-            "4.2.0": {
+            "5.0.0": {
               "packageName": "SwiftSoup",
               "products": [
                 {
@@ -2033,11 +2033,11 @@
                   "name": "SwiftSoup"
                 }
               ],
-              "toolsVersion": "4.2.0"
+              "toolsVersion": "5.0.0"
             }
           },
-          "summary": "2.3.4",
-          "version": "2.3.4"
+          "summary": "2.3.6",
+          "version": "2.3.6"
         },
         {
           "defaultToolsVersion": "4.1.0",
