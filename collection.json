@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2022-01-27T02:34:57Z",
+  "generatedAt": "2022-02-08T03:32:22Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -1006,6 +1006,54 @@
               "toolsVersion": "5.3.0"
             }
           },
+          "summary": "Release",
+          "version": "1.4.3"
+        },
+        {
+          "defaultToolsVersion": "5.3.0",
+          "manifests": {
+            "5.3.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "macos",
+                  "version": "10.12"
+                },
+                {
+                  "name": "ios",
+                  "version": "9.0"
+                },
+                {
+                  "name": "tvos",
+                  "version": "9.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "2.0"
+                }
+              ],
+              "packageName": "CryptoSwift",
+              "products": [
+                {
+                  "name": "CryptoSwift",
+                  "targets": [
+                    "CryptoSwift"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "CryptoSwift",
+                  "name": "CryptoSwift"
+                }
+              ],
+              "toolsVersion": "5.3.0"
+            }
+          },
           "version": "1.4.2"
         },
         {
@@ -1054,53 +1102,6 @@
             }
           },
           "version": "1.4.1"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "macos",
-                  "version": "10.12"
-                },
-                {
-                  "name": "ios",
-                  "version": "9.0"
-                },
-                {
-                  "name": "tvos",
-                  "version": "9.0"
-                },
-                {
-                  "name": "watchos",
-                  "version": "2.0"
-                }
-              ],
-              "packageName": "CryptoSwift",
-              "products": [
-                {
-                  "name": "CryptoSwift",
-                  "targets": [
-                    "CryptoSwift"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "CryptoSwift",
-                  "name": "CryptoSwift"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "version": "1.4.0"
         },
         {
           "defaultToolsVersion": "4.2.0",
@@ -1781,6 +1782,35 @@
               "toolsVersion": "5.5.0"
             }
           },
+          "version": "2.5.0"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "packageName": "mqtt-nio",
+              "products": [
+                {
+                  "name": "MQTTNIO",
+                  "targets": [
+                    "MQTTNIO"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "MQTTNIO",
+                  "name": "MQTTNIO"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
           "version": "2.4.0"
         },
         {
@@ -1811,35 +1841,6 @@
             }
           },
           "version": "2.3.1"
-        },
-        {
-          "defaultToolsVersion": "5.5.0",
-          "manifests": {
-            "5.5.0": {
-              "packageName": "mqtt-nio",
-              "products": [
-                {
-                  "name": "MQTTNIO",
-                  "targets": [
-                    "MQTTNIO"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "MQTTNIO",
-                  "name": "MQTTNIO"
-                }
-              ],
-              "toolsVersion": "5.5.0"
-            }
-          },
-          "version": "2.3.0"
         },
         {
           "defaultToolsVersion": "5.4.0",
