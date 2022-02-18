@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2022-02-17T02:52:13Z",
+  "generatedAt": "2022-02-18T02:38:46Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -14,7 +14,7 @@
         "url": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/LICENSE"
       },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/SwiftExtension/main/README.md",
-      "url": "https://github.com/moonagic/SwiftExtension",
+      "url": "https://github.com/moonagic/SwiftExtension.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -123,7 +123,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/onevcat/Kingfisher/master/README.md",
       "summary": "A lightweight, pure-Swift library for downloading and caching images from the web.",
-      "url": "https://github.com/onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher.git",
       "versions": [
         {
           "defaultToolsVersion": "5.1.0",
@@ -430,7 +430,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/Moya/Moya/master/Readme.md",
       "summary": "Network abstraction layer written in Swift.",
-      "url": "https://github.com/Moya/Moya",
+      "url": "https://github.com/Moya/Moya.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -858,7 +858,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/TapticEngineUtils/main/README.md",
       "summary": "An easy to use taptic Engine tool",
-      "url": "https://github.com/moonagic/TapticEngineUtils",
+      "url": "https://github.com/moonagic/TapticEngineUtils.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -904,7 +904,7 @@
         "url": "https://raw.githubusercontent.com/moonagic/AlertViewController/main/LICENSE"
       },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/AlertViewController/main/README.md",
-      "url": "https://github.com/moonagic/AlertViewController",
+      "url": "https://github.com/moonagic/AlertViewController.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -959,7 +959,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/krzyzanowskim/CryptoSwift/main/README.md",
       "summary": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
-      "url": "https://github.com/krzyzanowskim/CryptoSwift",
+      "url": "https://github.com/krzyzanowskim/CryptoSwift.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -1211,7 +1211,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/SnapKit/SnapKit/develop/README.md",
       "summary": "A Swift Autolayout DSL for iOS & OS X",
-      "url": "https://github.com/SnapKit/SnapKit",
+      "url": "https://github.com/SnapKit/SnapKit.git",
       "versions": [
         {
           "defaultToolsVersion": "5.0.0",
@@ -1299,7 +1299,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/kishikawakatsumi/KeychainAccess/master/README.md",
       "summary": "Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.",
-      "url": "https://github.com/kishikawakatsumi/KeychainAccess",
+      "url": "https://github.com/kishikawakatsumi/KeychainAccess.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -1633,7 +1633,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/AnyImageKit/AnyImageKit/master/README.md",
       "summary": "A toolbox for pick/edit/capture photo or video. Written in Swift. ",
-      "url": "https://github.com/AnyImageProject/AnyImageKit",
+      "url": "https://github.com/AnyImageProject/AnyImageKit.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -1753,7 +1753,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/sroebert/mqtt-nio/main/README.md",
       "summary": "Non-blocking, event-driven Swift client for MQTT (3.1.1 and 5.0).",
-      "url": "https://github.com/sroebert/mqtt-nio",
+      "url": "https://github.com/sroebert/mqtt-nio.git",
       "versions": [
         {
           "defaultToolsVersion": "5.5.0",
@@ -1948,7 +1948,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/scinfu/SwiftSoup/master/README.md",
       "summary": "SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",
-      "url": "https://github.com/scinfu/SwiftSoup",
+      "url": "https://github.com/scinfu/SwiftSoup.git",
       "versions": [
         {
           "defaultToolsVersion": "5.0.0",
@@ -2140,7 +2140,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/moonagic/Then/master/README.md",
       "summary": "✨ Super sweet syntactic sugar for Swift initializers",
-      "url": "https://github.com/moonagic/Then",
+      "url": "https://github.com/moonagic/Then.git",
       "versions": [
         {
           "defaultToolsVersion": "5.0.0",
@@ -2308,7 +2308,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/SwiftUIX/SwiftUIX/master/README.md",
       "summary": "Extensions and additions to the standard SwiftUI library.",
-      "url": "https://github.com/SwiftUIX/SwiftUIX",
+      "url": "https://github.com/SwiftUIX/SwiftUIX.git",
       "versions": [
         {
           "defaultToolsVersion": "5.5.0",
@@ -2481,7 +2481,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/elai950/AlertToast/master/README.md",
       "summary": "Create Apple-like alerts & toasts using SwiftUI",
-      "url": "https://github.com/elai950/AlertToast",
+      "url": "https://github.com/elai950/AlertToast.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",
@@ -2617,7 +2617,7 @@
       },
       "readmeURL": "https://raw.githubusercontent.com/keitaoouchi/MarkdownView/master/README.md",
       "summary": "Markdown View for iOS.",
-      "url": "https://github.com/keitaoouchi/MarkdownView",
+      "url": "https://github.com/keitaoouchi/MarkdownView.git",
       "versions": [
         {
           "defaultToolsVersion": "5.3.0",

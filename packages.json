@@ -4,25 +4,25 @@
     "packages":
     [
         {
-            "url": "https://github.com/moonagic/SwiftExtension"
+            "url": "https://github.com/moonagic/SwiftExtension.git"
         },
         {
-            "url": "https://github.com/onevcat/Kingfisher"
+            "url": "https://github.com/onevcat/Kingfisher.git"
         },
         {
-            "url": "https://github.com/Moya/Moya"
+            "url": "https://github.com/Moya/Moya.git"
         },
         {
-            "url": "https://github.com/moonagic/TapticEngineUtils"
+            "url": "https://github.com/moonagic/TapticEngineUtils.git"
         },
         {
-            "url": "https://github.com/moonagic/AlertViewController"
+            "url": "https://github.com/moonagic/AlertViewController.git"
         },
         {
-            "url": "https://github.com/krzyzanowskim/CryptoSwift"
+            "url": "https://github.com/krzyzanowskim/CryptoSwift.git"
         },
         {
-            "url": "https://github.com/SnapKit/SnapKit",
+            "url": "https://github.com/SnapKit/SnapKit.git",
             "versions":
             [
                 "5.0.0",
@@ -30,7 +30,7 @@
             ]
         },
         {
-            "url": "https://github.com/kishikawakatsumi/KeychainAccess",
+            "url": "https://github.com/kishikawakatsumi/KeychainAccess.git",
             "versions":
             [
                 "v4.2.2",
@@ -43,16 +43,16 @@
             ]
         },
         {
-            "url": "https://github.com/AnyImageProject/AnyImageKit"
+            "url": "https://github.com/AnyImageProject/AnyImageKit.git"
         },
         {
-            "url": "https://github.com/sroebert/mqtt-nio"
+            "url": "https://github.com/sroebert/mqtt-nio.git"
         },
         {
-            "url": "https://github.com/scinfu/SwiftSoup"
+            "url": "https://github.com/scinfu/SwiftSoup.git"
         },
         {
-            "url": "https://github.com/moonagic/Then",
+            "url": "https://github.com/moonagic/Then.git",
             "versions":
             [
                 "2.7.0",
@@ -61,13 +61,13 @@
             ]
         },
         {
-            "url": "https://github.com/SwiftUIX/SwiftUIX"
+            "url": "https://github.com/SwiftUIX/SwiftUIX.git"
         },
         {
-            "url": "https://github.com/elai950/AlertToast"
+            "url": "https://github.com/elai950/AlertToast.git"
         },
         {
-            "url": "https://github.com/keitaoouchi/MarkdownView",
+            "url": "https://github.com/keitaoouchi/MarkdownView.git",
             "versions":
             [
                 "1.9.1",
