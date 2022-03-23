@@ -1,6 +1,6 @@
 {
   "formatVersion": "1.0",
-  "generatedAt": "2022-03-15T03:01:25Z",
+  "generatedAt": "2022-03-23T04:32:34Z",
   "generatedBy": {
     "name": "Hengmin Wu"
   },
@@ -2356,6 +2356,54 @@
             }
           },
           "summary": "",
+          "version": "0.1.2"
+        },
+        {
+          "defaultToolsVersion": "5.5.0",
+          "manifests": {
+            "5.5.0": {
+              "minimumPlatformVersions": [
+                {
+                  "name": "ios",
+                  "version": "13.0"
+                },
+                {
+                  "name": "macos",
+                  "version": "10.15"
+                },
+                {
+                  "name": "tvos",
+                  "version": "13.0"
+                },
+                {
+                  "name": "watchos",
+                  "version": "6.0"
+                }
+              ],
+              "packageName": "SwiftUIX",
+              "products": [
+                {
+                  "name": "SwiftUIX",
+                  "targets": [
+                    "SwiftUIX"
+                  ],
+                  "type": {
+                    "library": [
+                      "automatic"
+                    ]
+                  }
+                }
+              ],
+              "targets": [
+                {
+                  "moduleName": "SwiftUIX",
+                  "name": "SwiftUIX"
+                }
+              ],
+              "toolsVersion": "5.5.0"
+            }
+          },
+          "summary": "",
           "version": "0.1.1"
         },
         {
@@ -2405,54 +2453,6 @@
           },
           "summary": "",
           "version": "0.1.0"
-        },
-        {
-          "defaultToolsVersion": "5.3.0",
-          "manifests": {
-            "5.3.0": {
-              "minimumPlatformVersions": [
-                {
-                  "name": "ios",
-                  "version": "13.0"
-                },
-                {
-                  "name": "macos",
-                  "version": "10.15"
-                },
-                {
-                  "name": "tvos",
-                  "version": "13.0"
-                },
-                {
-                  "name": "watchos",
-                  "version": "6.0"
-                }
-              ],
-              "packageName": "SwiftUIX",
-              "products": [
-                {
-                  "name": "SwiftUIX",
-                  "targets": [
-                    "SwiftUIX"
-                  ],
-                  "type": {
-                    "library": [
-                      "automatic"
-                    ]
-                  }
-                }
-              ],
-              "targets": [
-                {
-                  "moduleName": "SwiftUIX",
-                  "name": "SwiftUIX"
-                }
-              ],
-              "toolsVersion": "5.3.0"
-            }
-          },
-          "summary": "",
-          "version": "0.0.9"
         }
       ]
     },
